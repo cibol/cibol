@@ -1,0 +1,99 @@
+  <!doctype html><html lang="en"><head><meta charset="utf-8"><title>Interactive Maps</title><meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" href="c-favicon.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
+    <link rel="stylesheet" href="./css/ctn-filter.css">
+  </head>
+<head>
+</head>
+<body>       
+<div class="wrapper">
+  <div class="center">  
+
+    <div class="container " >
+      <div id="filterGroups" class="col-main centerContent">
+        <a id="filterDropDown">Filter by:</a>
+
+
+    </div>
+
+    <div class="col-side"> 
+
+
+      <div class="fnav relative">
+        <div id="cHome" > 
+        <ul id="selectFloor" datafloor="floor1" name="floor">
+          <li><div>Floor</div><div>Avail.</div></li>
+          <li datafloor="floor1"><div>1</div><div>5</div></li>
+          <li datafloor="floor2"><div>2</div><div>5</div></li>
+          <li datafloor="floor3"><div>3</div><div>5</div></li>
+         
+        </ul>
+        </div>                
+    </div>
+    </div>
+    </div>
+  
+  
+   <div class="container" datacolor="dataRent" datafloor="floor1"> 
+
+    <div id="map">
+      <div class="relative">
+        <div id="contentAmen" style="top:-55px; left:-500px">
+          <div id="btnClose">[x]</div>
+          <div></div>
+        </div>
+
+        <div class="zoomBkg">
+        <div class="zbox" id="zoomInBtn">+</div>
+
+        <div class="zbox" id="zoomOutBtn">-</div>
+        <div class="icon-refresh" id="refresh"> </div> 
+        <a class="icon-msg" id="txtmsg" href="sms://+18018238991" target="_blank" aria-label="Click here to send us a text from your mobile device.">      
+           <div>Text Community        </div>
+        </a>  
+      </div>
+        <object name="Cottonwood" id="svg1" data="./svg/cw_BkgMap.svg"></object>               
+      </div>
+
+        
+    </div>
+     <div id="followMe" class="btn">Show Your Position On The Map</div>  
+        <div id="containerPopUp">
+            <div id="tours" class="">       
+          </div>  
+          <button class="btn" id="btnTour">Show Tours</button>
+          <div id="txtTours">Click <div class="btnPath inline"></div> to add units you would like to tour.</div>    
+          
+          <hr>
+          <span id="noMatches" class="off">No matches, try removing some filters. </span>
+                  
+      <div id="sidebar" datafloor="floor1">     
+        
+      </div>       
+     
+           
+    </div>
+  </div>
+            </div>
+    </div>
+
+
+      <form id="formResponse" >
+        
+              <h6>Please review your guided map experience</h6>
+              <div class="inline">
+              <div class="icon-star checked"></div>
+              <div class="icon-star checked"></div>
+              <div class="icon-star checked"></div>
+              <div class="icon-star checked"></div>
+              <div class="icon-star "></div>
+              </div>
+              <input type="text" name="comments" placeholder="Comments">
+              <button id="btnRequest" class="btn" type="submit">Send</button>
+        </div>
+          </form>
+
+<script src="./js/cwBkg_9_21.js"></script>
+</body>
+</html>
