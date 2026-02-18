@@ -1,0 +1,167 @@
+{
+"type": "FeatureCollection",
+"crs": {
+"type": "name",
+"properties": {
+"name": "EPSG:3857"
+}
+},
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19451695.08332484,
+-5054454.762604895
+]
+},
+"properties": {
+"name": "Karori Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19457618.325976428,
+-5048812.466818566
+]
+},
+"properties": {
+"name": "Khandallah Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19454803.430114772,
+-5057465.437707095
+]
+},
+"properties": {
+"name": "Brooklyn Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19455721.195284333,
+-5061954.9257090185
+]
+},
+"properties": {
+"name": "Island Bay Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19456487.293025736,
+-5058675.100385256
+]
+},
+"properties": {
+"name": "Newtown Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19460425.279877167,
+-5059154.336831593
+]
+},
+"properties": {
+"name": "Miramar Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19461458.31334617,
+-5037615.021142906
+]
+},
+"properties": {
+"name": "Mervyn Kemp (Tawa)"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19455697.375439215,
+-5049241.706713224
+]
+},
+"properties": {
+"name": "Cummings Park (Ngaio) Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19458073.82328468,
+-5059135.334501501
+]
+},
+"properties": {
+"name": "Ruth Gotlieb"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19456048.108787887,
+-5051173.205356774
+]
+},
+"properties": {
+"name": "Wadestown Library"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19459197.519917145,
+-5045249.862013824
+]
+},
+"properties": {
+"name": "Waitohi Johnsonville"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+19456003.92484108,
+-5054237.625887273
+]
+},
+"properties": {
+"name": "CBD Te Awe Library"
+}
+}
+]
+}
