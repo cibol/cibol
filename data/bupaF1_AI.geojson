@@ -7,7 +7,6 @@
 { "type": "Feature", "properties": { "Name": "Reception", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663113, -41.2579876, 0.0 ], [ 174.7662734, -41.2580101, 0.0 ], [ 174.7663643, -41.2580976, 0.0 ], [ 174.7664026, -41.2580734, 0.0 ], [ 174.7663988, -41.2580697, 0.0 ], [ 174.7663113, -41.2579876, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "General Manager", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663113, -41.2579876, 0.0 ], [ 174.7662773, -41.2579557, 0.0 ], [ 174.76624, -41.2579779, 0.0 ], [ 174.7662734, -41.2580101, 0.0 ], [ 174.7663113, -41.2579876, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "Mailboxes", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663166, -41.2578437, 0.0 ], [ 174.7663012, -41.2578531, 0.0 ], [ 174.7663817, -41.2579244, 0.0 ], [ 174.7663969, -41.2579149, 0.0 ], [ 174.7663166, -41.2578437, 0.0 ] ] ] } },
-{ "type": "Feature", "properties": { "Name": "Wellness Clinic", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663606, -41.2577915, 0.0 ], [ 174.7663157, -41.2577493, 0.0 ], [ 174.7662892, -41.2577691, 0.0 ], [ 174.7662554, -41.2577943, 0.0 ], [ 174.7662706, -41.2578074, 0.0 ], [ 174.7662963, -41.2578296, 0.0 ], [ 174.7663606, -41.2577915, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "Storage", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663394, -41.2577315, 0.0 ], [ 174.7663274, -41.2577405, 0.0 ], [ 174.7663157, -41.2577493, 0.0 ], [ 174.7663606, -41.2577915, 0.0 ], [ 174.7663867, -41.257776, 0.0 ], [ 174.7663394, -41.2577315, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "Lounge", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7667274, -41.2576546, 0.0 ], [ 174.7666322, -41.2577161, 0.0 ], [ 174.7668188, -41.2578971, 0.0 ], [ 174.7669197, -41.2578319, 0.0 ], [ 174.7667274, -41.2576546, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "Library", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7667263, -41.2578074, 0.0 ], [ 174.7666416, -41.2578577, 0.0 ], [ 174.7667171, -41.2579309, 0.0 ], [ 174.7668018, -41.2578806, 0.0 ], [ 174.7667263, -41.2578074, 0.0 ] ] ] } },
@@ -41,6 +40,12 @@
 { "type": "Feature", "properties": { "Name": "Storage", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7662813, -41.2577055, 0.0 ], [ 174.7662431, -41.2577341, 0.0 ], [ 174.7662485, -41.2577382, 0.0 ], [ 174.7662892, -41.2577691, 0.0 ], [ 174.7663274, -41.2577405, 0.0 ], [ 174.7662813, -41.2577055, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "Hair Salon", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7662431, -41.2577341, 0.0 ], [ 174.7661902, -41.2577736, 0.0 ], [ 174.7662505, -41.2578194, 0.0 ], [ 174.7662706, -41.2578074, 0.0 ], [ 174.7662554, -41.2577943, 0.0 ], [ 174.7662892, -41.2577691, 0.0 ], [ 174.7662431, -41.2577341, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Name": "Wellness Clinic", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663157, -41.2577493, 0.0 ], [ 174.7662892, -41.2577691, 0.0 ], [ 174.7662554, -41.2577943, 0.0 ], [ 174.7662963, -41.2578296, 0.0 ], [ 174.7663606, -41.2577915, 0.0 ], [ 174.7663157, -41.2577493, 0.0 ] ] ] } },
-{ "type": "Feature", "properties": { "Name": "Storage", "description": "Common", "Desc": null, "Bedroom": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7663394, -41.2577315, 0.0 ], [ 174.7663157, -41.2577493, 0.0 ], [ 174.7663606, -41.2577915, 0.0 ], [ 174.7663867, -41.257776, 0.0 ], [ 174.7663394, -41.2577315, 0.0 ] ] ] } }
 ]
+41
+42
+43
+44
+45
+46
+
 }
