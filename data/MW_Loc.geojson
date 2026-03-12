@@ -8,8 +8,8 @@
          "fid": "Montgomery_Woods_56"
       },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
+        "type": "Polyline",
+        "coordinates": [[
           [
             -85.9712587,
             39.7112639,
@@ -865,7 +865,7 @@
             39.7112639,
             0
           ]
-        ]
+        ]]
       }
     },
     {
@@ -52403,4 +52403,5 @@
     }
   ],
   "name": "C:\\Users\\Rebecca\\pbiTable\\demoTable\\assets"
+
 }
