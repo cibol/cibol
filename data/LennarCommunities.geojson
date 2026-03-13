@@ -1,0 +1,335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.43528197,
+                    39.77192877
+                ]
+            },
+            "properties": {
+                "Community": "Easton",
+                "City": "Avon",
+                "ZipCode": "46123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.89237271,
+                    39.989149
+                ]
+            },
+            "properties": {
+                "Community": "Abbott Commons",
+                "City": "Fishers",
+                "ZipCode": "46037"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.83441609,
+                    39.91151436
+                ]
+            },
+            "properties": {
+                "Community": "Beyers Estates",
+                "City": "Fortville",
+                "ZipCode": "46040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.08325954,
+                    39.53132084
+                ]
+            },
+            "properties": {
+                "Community": "Kingsbridge",
+                "City": "Franklin",
+                "ZipCode": "46131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.74476838,
+                    39.81500844
+                ]
+            },
+            "properties": {
+                "Community": "Evergreen Estates",
+                "City": "Greenfield",
+                "ZipCode": "46140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8392421,
+                    39.78615343
+                ]
+            },
+            "properties": {
+                "Community": "Mohawk Trails",
+                "City": "Greenfield",
+                "ZipCode": "46140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0459785,
+                    39.5911169
+                ]
+            },
+            "properties": {
+                "Community": "Grand Vista",
+                "City": "Greenwood",
+                "ZipCode": "46143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0833343,
+                    39.57717652
+                ]
+            },
+            "properties": {
+                "Community": "Lincoln Place",
+                "City": "Greenwood",
+                "ZipCode": "46143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2361744,
+                    39.88993472
+                ]
+            },
+            "properties": {
+                "Community": "Ashton Village",
+                "City": "Indianapolis",
+                "ZipCode": "46268"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.01856799,
+                    39.69183375
+                ]
+            },
+            "properties": {
+                "Community": "Eagle Manor",
+                "City": "Indianapolis",
+                "ZipCode": "46239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.97397281,
+                    39.70481264
+                ]
+            },
+            "properties": {
+                "Community": "Montgomery Woods",
+                "City": "Indianapolis",
+                "ZipCode": "46239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.937287,
+                    40.02187772
+                ]
+            },
+            "properties": {
+                "Community": "Copperleaf at Finch Creek",
+                "City": "Noblesville",
+                "ZipCode": "46060"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.05734467,
+                    40.03648139
+                ]
+            },
+            "properties": {
+                "Community": "Magnolia Ridge",
+                "City": "Noblesville",
+                "ZipCode": "46062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.06500596,
+                    40.06948527
+                ]
+            },
+            "properties": {
+                "Community": "The Timbers",
+                "City": "Noblesville",
+                "ZipCode": "46062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.80978181,
+                    39.98756061
+                ]
+            },
+            "properties": {
+                "Community": "The Ridge at Fall Creek",
+                "City": "Pendleton",
+                "ZipCode": "46064"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.36899245,
+                    39.71800201
+                ]
+            },
+            "properties": {
+                "Community": "Grey Hawk",
+                "City": "Plainfield",
+                "ZipCode": "46168"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.42063719,
+                    39.70194071
+                ]
+            },
+            "properties": {
+                "Community": "Saratoga Village",
+                "City": "Plainfield",
+                "ZipCode": "46168"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.19192865,
+                    40.02881233
+                ]
+            },
+            "properties": {
+                "Community": "Ravinia",
+                "City": "Westfield",
+                "ZipCode": "46074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.13267697,
+                    40.07263526
+                ]
+            },
+            "properties": {
+                "Community": "The Towns at Chatham",
+                "City": "Westfield",
+                "ZipCode": "46074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.18052804,
+                    40.06315403
+                ]
+            },
+            "properties": {
+                "Community": "Winterburg",
+                "City": "Westfield",
+                "ZipCode": "46074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.34165364,
+                    39.93045353
+                ]
+            },
+            "properties": {
+                "Community": "Ellis Acres",
+                "City": "Zionsville",
+                "ZipCode": "46077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.25206658,
+                    40.00870502
+                ]
+            },
+            "properties": {
+                "Community": "Union Woodlands",
+                "City": "Zionsville",
+                "ZipCode": "46077"
+            }
+        }
+    ]
+}
