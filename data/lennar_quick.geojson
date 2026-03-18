@@ -17,7 +17,6 @@
 "zipcode": "46123",
 "Collection": "Briarwood",
 "Community": "Easton",
-"ID": "132_Easton",
 "matched_label": "Park Ct, Avon, IN 46123, United States"
 }
 },
@@ -3246,7 +3245,6 @@
 "city": "Zionsville",
 "state": "IN",
 "zipcode": "46077",
-"match": "202_Ellis Acres",
 "Collection": "Lockerbie V",
 "Community": "Ellis Acres",
 "matched_label": "6619 Halsey St, Zionsville, IN 46077, United States"
@@ -3266,7 +3264,6 @@
 "city": "Zionsville",
 "state": "IN",
 "zipcode": "46077",
-match": "302_Ellis Acres",
 "Collection": "Lockerbie V",
 "Community": "Ellis Acres",
 "matched_label": "6619 Halsey St, Zionsville, IN 46077, United States"
@@ -3339,7 +3336,7 @@ match": "302_Ellis Acres",
 ]
 },
 "properties": {
-"address": "6634 Halsey Street",
+"address": "6634 Halsey Street ",
 "city": "Zionsville",
 "state": "IN",
 "zipcode": "46077",
@@ -3358,7 +3355,7 @@ match": "302_Ellis Acres",
 ]
 },
 "properties": {
-"address": "2412 Red Squirrel Way",
+"address": "2412 Red Squirrel Way ",
 "city": "Zionsville",
 "state": "IN",
 "zipcode": "46077",
@@ -3377,7 +3374,7 @@ match": "302_Ellis Acres",
 ]
 },
 "properties": {
-"address": "2412 Red Squirrel Way",
+"address": "2412 Red Squirrel Way ",
 "city": "Zionsville",
 "state": "IN",
 "zipcode": "46077",
