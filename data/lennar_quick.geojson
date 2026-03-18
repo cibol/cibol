@@ -1,0 +1,3390 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5313 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Briarwood",
+"Community": "Easton",
+"ID": "132_Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5291 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Chapman",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5350 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Briarwood",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5232 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Atwood",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5370 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Chapman",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5262 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Atwood",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5291 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Monroe",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5279 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Fletcher",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5308 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Briarwood",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5331 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Monroe",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5357 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Shafer",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5205 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Shafer",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5415 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Fletcher",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5307 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Shafer",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5313 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Briarwood",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5291 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Chapman",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5350 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Briarwood",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5232 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Atwood",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.35595,
+39.77938
+]
+},
+"properties": {
+"address": "5370 Foxley Park Lane",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Chapman",
+"Community": "Easton",
+"matched_label": "Park Ct, Avon, IN 46123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5262 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Atwood",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5291 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Monroe",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5279 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Fletcher",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5308 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Briarwood",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5331 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Monroe",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5357 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Shafer",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5205 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Shafer",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5415 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Fletcher",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39438,
+39.76286
+]
+},
+"properties": {
+"address": "5307 Nettleton Way",
+"city": "Avon",
+"state": "IN",
+"zipcode": "46123",
+"Collection": "Shafer",
+"Community": "Easton",
+"matched_label": "46123, Avon, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.88859,
+39.98901
+]
+},
+"properties": {
+"address": "15467 Alperton Road",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Springfield",
+"Community": "Abbott Commons",
+"matched_label": "15467 Alperton Rd, Fishers, IN 46037-3439, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.89608,
+39.98969
+]
+},
+"properties": {
+"address": "15139 Farrington Way",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Trenton",
+"Community": "Abbott Commons",
+"matched_label": "15139 Farrington Way, Fishers, IN 46037-3444, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.896,
+39.98969
+]
+},
+"properties": {
+"address": "15147 Farrington Way",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Roxbury",
+"Community": "Abbott Commons",
+"matched_label": "15147 Farrington Way, Fishers, IN 46037-3444, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.89591,
+39.98969
+]
+},
+"properties": {
+"address": "15155 Farrington Way",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Trenton",
+"Community": "Abbott Commons",
+"matched_label": "15155 Farrington Way, Fishers, IN 46037-3444, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.88663,
+39.98875
+]
+},
+"properties": {
+"address": "13664 Mint Road",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Milford",
+"Community": "Abbott Commons",
+"matched_label": "13664 Mint Rd, Fishers, IN 46037, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.88859,
+39.98901
+]
+},
+"properties": {
+"address": "15467 Alperton Road",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Springfield",
+"Community": "Abbott Commons",
+"matched_label": "15467 Alperton Rd, Fishers, IN 46037-3439, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.89608,
+39.98969
+]
+},
+"properties": {
+"address": "15139 Farrington Way",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Trenton",
+"Community": "Abbott Commons",
+"matched_label": "15139 Farrington Way, Fishers, IN 46037-3444, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.896,
+39.98969
+]
+},
+"properties": {
+"address": "15147 Farrington Way",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Roxbury",
+"Community": "Abbott Commons",
+"matched_label": "15147 Farrington Way, Fishers, IN 46037-3444, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.89591,
+39.98969
+]
+},
+"properties": {
+"address": "15155 Farrington Way",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Trenton",
+"Community": "Abbott Commons",
+"matched_label": "15155 Farrington Way, Fishers, IN 46037-3444, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.88663,
+39.98875
+]
+},
+"properties": {
+"address": "13664 Mint Road",
+"city": "Fishers",
+"state": "IN",
+"zipcode": "46037",
+"Collection": "Milford",
+"Community": "Abbott Commons",
+"matched_label": "13664 Mint Rd, Fishers, IN 46037, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83189,
+39.91033
+]
+},
+"properties": {
+"address": "8748 Georgina Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Oxford",
+"Community": "Beyers Estates",
+"matched_label": "Georgina St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83328,
+39.9126
+]
+},
+"properties": {
+"address": "8807 Hardin Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Fairmont",
+"Community": "Beyers Estates",
+"matched_label": "Hardin St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.82816,
+39.91082
+]
+},
+"properties": {
+"address": "1366 Carmichael Streeet",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Fairmont",
+"Community": "Beyers Estates",
+"matched_label": "Carmichael St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.84036,
+39.91022
+]
+},
+"properties": {
+"address": "1368 Beyers Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Fairmont",
+"Community": "Beyers Estates",
+"matched_label": "Beyers St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83291,
+39.91247
+]
+},
+"properties": {
+"address": "1446 Hardin Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Serenity",
+"Community": "Beyers Estates",
+"matched_label": "1443 Hardin St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83291,
+39.91247
+]
+},
+"properties": {
+"address": "1440 Hardin Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Serenity",
+"Community": "Beyers Estates",
+"matched_label": "1443 Hardin St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.82816,
+39.91082
+]
+},
+"properties": {
+"address": "1324 Carmichael Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Hampshire",
+"Community": "Beyers Estates",
+"matched_label": "Carmichael St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.82816,
+39.91082
+]
+},
+"properties": {
+"address": "1312 Carmichael Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Valencia",
+"Community": "Beyers Estates",
+"matched_label": "Carmichael St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83189,
+39.91033
+]
+},
+"properties": {
+"address": "8748 Georgina Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Oxford",
+"Community": "Beyers Estates",
+"matched_label": "Georgina St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83328,
+39.9126
+]
+},
+"properties": {
+"address": "8807 Hardin Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Fairmont",
+"Community": "Beyers Estates",
+"matched_label": "Hardin St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.82816,
+39.91082
+]
+},
+"properties": {
+"address": "1366 Carmichael Streeet",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Fairmont",
+"Community": "Beyers Estates",
+"matched_label": "Carmichael St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.84036,
+39.91022
+]
+},
+"properties": {
+"address": "1368 Beyers Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Fairmont",
+"Community": "Beyers Estates",
+"matched_label": "Beyers St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83291,
+39.91247
+]
+},
+"properties": {
+"address": "1446 Hardin Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Serenity",
+"Community": "Beyers Estates",
+"matched_label": "1443 Hardin St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.83291,
+39.91247
+]
+},
+"properties": {
+"address": "1440 Hardin Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Serenity",
+"Community": "Beyers Estates",
+"matched_label": "1443 Hardin St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.82816,
+39.91082
+]
+},
+"properties": {
+"address": "1324 Carmichael Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Hampshire",
+"Community": "Beyers Estates",
+"matched_label": "Carmichael St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.82816,
+39.91082
+]
+},
+"properties": {
+"address": "1312 Carmichael Street",
+"city": "Fortville",
+"state": "IN",
+"zipcode": "46040",
+"Collection": "Valencia",
+"Community": "Beyers Estates",
+"matched_label": "Carmichael St, Fortville, IN 46040, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3776 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Paddington",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3723 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Wentworth",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3667 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Alan",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3763 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Jasper",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3762 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Wentworth",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06114,
+39.49236
+]
+},
+"properties": {
+"address": "1534 Pine Circle",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Kingston",
+"Community": "Kingsbridge",
+"matched_label": "Circle Dr, Franklin, IN 46131, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06114,
+39.49236
+]
+},
+"properties": {
+"address": "1560 Pine Circle",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Valencia",
+"Community": "Kingsbridge",
+"matched_label": "Circle Dr, Franklin, IN 46131, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3776 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Paddington",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3723 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Wentworth",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3667 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Alan",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3763 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Jasper",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.0642,
+39.48423
+]
+},
+"properties": {
+"address": "3762 Hanford Road",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Wentworth",
+"Community": "Kingsbridge",
+"matched_label": "Franklin, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06114,
+39.49236
+]
+},
+"properties": {
+"address": "1534 Pine Circle",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Kingston",
+"Community": "Kingsbridge",
+"matched_label": "Circle Dr, Franklin, IN 46131, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06114,
+39.49236
+]
+},
+"properties": {
+"address": "1560 Pine Circle",
+"city": "Franklin",
+"state": "IN",
+"zipcode": "46131",
+"Collection": "Valencia",
+"Community": "Kingsbridge",
+"matched_label": "Circle Dr, Franklin, IN 46131, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74494,
+39.8198
+]
+},
+"properties": {
+"address": "1616 Colorado Spruce Way",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Evergreen Estates",
+"matched_label": "1616 Colorado Spruce Way, Greenfield, IN 46140-6124, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74494,
+39.81902
+]
+},
+"properties": {
+"address": "2345 Fir Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Evergreen Estates",
+"matched_label": "2345 Fir Dr, Greenfield, IN 46140-6122, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7455,
+39.81945
+]
+},
+"properties": {
+"address": "2420 Fir Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Evergreen Estates",
+"matched_label": "2420 Fir Dr, Greenfield, IN 46140-6123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74451,
+39.81949
+]
+},
+"properties": {
+"address": "1631 Colorado Spruce Way",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Evergreen Estates",
+"matched_label": "1631 Colorado Spruce Way, Greenfield, IN 46140-6124, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74428,
+39.8195
+]
+},
+"properties": {
+"address": "1643 Colorado Spruce Way",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Evergreen Estates",
+"matched_label": "1643 Colorado Spruce Way, Greenfield, IN 46140-6124, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74494,
+39.8198
+]
+},
+"properties": {
+"address": "1616 Colorado Spruce Way",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Evergreen Estates",
+"matched_label": "1616 Colorado Spruce Way, Greenfield, IN 46140-6124, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74451,
+39.81949
+]
+},
+"properties": {
+"address": "1631 Colorado Spruce Way",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Evergreen Estates",
+"matched_label": "1631 Colorado Spruce Way, Greenfield, IN 46140-6124, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74428,
+39.8195
+]
+},
+"properties": {
+"address": "1643 Colorado Spruce Way",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Evergreen Estates",
+"matched_label": "1643 Colorado Spruce Way, Greenfield, IN 46140-6124, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74539,
+39.81965
+]
+},
+"properties": {
+"address": "2428 Fir Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Evergreen Estates",
+"matched_label": "2428 Fir Dr, Greenfield, IN 46140-6123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74494,
+39.81902
+]
+},
+"properties": {
+"address": "2345 Fir Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Evergreen Estates",
+"matched_label": "2345 Fir Dr, Greenfield, IN 46140-6122, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7455,
+39.81945
+]
+},
+"properties": {
+"address": "2420 Fir Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Evergreen Estates",
+"matched_label": "2420 Fir Dr, Greenfield, IN 46140-6123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.74539,
+39.81965
+]
+},
+"properties": {
+"address": "2428 Fir Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Evergreen Estates",
+"matched_label": "2428 Fir Dr, Greenfield, IN 46140-6123, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "285 N. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "297 N. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "261 N. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "1916 W. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "1874 W. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "285 N. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "297 N. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Kingston",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "261 N. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "1916 W. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7693,
+39.78515
+]
+},
+"properties": {
+"address": "1874 W. Addison Drive",
+"city": "Greenfield",
+"state": "IN",
+"zipcode": "46140",
+"Collection": "Valencia",
+"Community": "Mohawk Trails",
+"matched_label": "Greenfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04532,
+39.59123
+]
+},
+"properties": {
+"address": "3005 Grand Ridge Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Fairmont",
+"Community": "Grand Vista",
+"matched_label": "3005 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04481,
+39.5927
+]
+},
+"properties": {
+"address": "2880 Grand Lake Boulevard",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Sycamore",
+"Community": "Grand Vista",
+"matched_label": "Grand Lake Blvd, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04481,
+39.5927
+]
+},
+"properties": {
+"address": "3137 Grand Lake Boulevard",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Fairmont",
+"Community": "Grand Vista",
+"matched_label": "Grand Lake Blvd, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04381,
+39.58973
+]
+},
+"properties": {
+"address": "3097 Vista View Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Rockwell",
+"Community": "Grand Vista",
+"matched_label": "3097 Vista View Dr, Greenwood, IN 46143-6129, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04481,
+39.5927
+]
+},
+"properties": {
+"address": "3125 Grand Lake Boulevard",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Kingston",
+"Community": "Grand Vista",
+"matched_label": "Grand Lake Blvd, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04529,
+39.59122
+]
+},
+"properties": {
+"address": "3047 Grand Ridge Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Valencia",
+"Community": "Grand Vista",
+"matched_label": "3047 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04531,
+39.59122
+]
+},
+"properties": {
+"address": "3013 Grand Ridge Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Kingston",
+"Community": "Grand Vista",
+"matched_label": "3013 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04536,
+39.59095
+]
+},
+"properties": {
+"address": "3094 Grand Ridge Circle",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Valencia",
+"Community": "Grand Vista",
+"matched_label": "3094 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04532,
+39.59123
+]
+},
+"properties": {
+"address": "3005 Grand Ridge Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Fairmont",
+"Community": "Grand Vista",
+"matched_label": "3005 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04481,
+39.5927
+]
+},
+"properties": {
+"address": "2880 Grand Lake Boulevard",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Sycamore",
+"Community": "Grand Vista",
+"matched_label": "Grand Lake Blvd, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04481,
+39.5927
+]
+},
+"properties": {
+"address": "3137 Grand Lake Boulevard",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Fairmont",
+"Community": "Grand Vista",
+"matched_label": "Grand Lake Blvd, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04381,
+39.58973
+]
+},
+"properties": {
+"address": "3097 Vista View Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Rockwell",
+"Community": "Grand Vista",
+"matched_label": "3097 Vista View Dr, Greenwood, IN 46143-6129, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04481,
+39.5927
+]
+},
+"properties": {
+"address": "3125 Grand Lake Boulevard",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Kingston",
+"Community": "Grand Vista",
+"matched_label": "Grand Lake Blvd, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04529,
+39.59122
+]
+},
+"properties": {
+"address": "3047 Grand Ridge Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Valencia",
+"Community": "Grand Vista",
+"matched_label": "3047 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04531,
+39.59122
+]
+},
+"properties": {
+"address": "3013 Grand Ridge Drive",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Kingston",
+"Community": "Grand Vista",
+"matched_label": "3013 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.04536,
+39.59095
+]
+},
+"properties": {
+"address": "3094 Grand Ridge Circle",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Valencia",
+"Community": "Grand Vista",
+"matched_label": "3094 Grand Ridge Dr, Greenwood, IN 46143-6130, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.08541,
+39.57761
+]
+},
+"properties": {
+"address": "858 Norfolk Lane",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Ironwood",
+"Community": "Lincoln Place",
+"matched_label": "858 Norfolk Ln, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.08541,
+39.57761
+]
+},
+"properties": {
+"address": "858 Norfolk Lane",
+"city": "Greenwood",
+"state": "IN",
+"zipcode": "46143",
+"Collection": "Ironwood",
+"Community": "Lincoln Place",
+"matched_label": "858 Norfolk Ln, Greenwood, IN 46143, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.23557,
+39.8887
+]
+},
+"properties": {
+"address": "7446 Whispering Garden Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46268",
+"Collection": "Trenton",
+"Community": "Ashton Village",
+"matched_label": "7446 Whispering Garden Dr, Indianapolis, IN 46268-0157, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.23557,
+39.8887
+]
+},
+"properties": {
+"address": "7446 Whispering Garden Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46268",
+"Collection": "Trenton",
+"Community": "Ashton Village",
+"matched_label": "7446 Whispering Garden Dr, Indianapolis, IN 46268-0157, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.27326,
+39.88505
+]
+},
+"properties": {
+"address": "8310 Grand Appaloosa Way",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Hampshire",
+"Community": "Eagle Manor",
+"matched_label": "Appaloosa Way, Indianapolis, IN 46278, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.11401,
+39.71248
+]
+},
+"properties": {
+"address": "5209 Great Percheron Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Valencia",
+"Community": "Eagle Manor",
+"matched_label": "Percheron Ln, Indianapolis, IN 46227, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.27326,
+39.88505
+]
+},
+"properties": {
+"address": "8310 Grand Appaloosa Way",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Hampshire",
+"Community": "Eagle Manor",
+"matched_label": "Appaloosa Way, Indianapolis, IN 46278, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.11401,
+39.71248
+]
+},
+"properties": {
+"address": "5209 Great Percheron Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Valencia",
+"Community": "Eagle Manor",
+"matched_label": "Percheron Ln, Indianapolis, IN 46227, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97139,
+39.70706
+]
+},
+"properties": {
+"address": "4238 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Valencia",
+"Community": "Montgomery Woods",
+"matched_label": "4238 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97079,
+39.70877
+]
+},
+"properties": {
+"address": "4137 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Kingston",
+"Community": "Montgomery Woods",
+"matched_label": "4137 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97078,
+39.70859
+]
+},
+"properties": {
+"address": "4143 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Valencia",
+"Community": "Montgomery Woods",
+"matched_label": "4143 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97138,
+39.70744
+]
+},
+"properties": {
+"address": "4226 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Hampshire",
+"Community": "Montgomery Woods",
+"matched_label": "4226 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97139,
+39.70706
+]
+},
+"properties": {
+"address": "4238 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Valencia",
+"Community": "Montgomery Woods",
+"matched_label": "4238 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97079,
+39.70877
+]
+},
+"properties": {
+"address": "4137 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Kingston",
+"Community": "Montgomery Woods",
+"matched_label": "4137 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97078,
+39.70859
+]
+},
+"properties": {
+"address": "4143 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Valencia",
+"Community": "Montgomery Woods",
+"matched_label": "4143 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.97138,
+39.70744
+]
+},
+"properties": {
+"address": "4226 Bumps End Drive",
+"city": "Indianapolis",
+"state": "IN",
+"zipcode": "46239",
+"Collection": "Hampshire",
+"Community": "Montgomery Woods",
+"matched_label": "4226 Bumps End Dr, Indianapolis, IN 46239, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.93505,
+40.0214
+]
+},
+"properties": {
+"address": "12959 Mystic Pines Drive",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46060",
+"Collection": "Kingston",
+"Community": "Copperleaf at Finch Creek",
+"matched_label": "12959 Mystic Pines Dr, Noblesville, IN 46060-5056, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.93505,
+40.0214
+]
+},
+"properties": {
+"address": "12959 Mystic Pines Drive",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46060",
+"Collection": "Kingston",
+"Community": "Copperleaf at Finch Creek",
+"matched_label": "12959 Mystic Pines Dr, Noblesville, IN 46060-5056, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.07312,
+40.04568
+]
+},
+"properties": {
+"address": "16816 Daly Drive",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Paddington",
+"Community": "Magnolia Ridge",
+"matched_label": "46062, Noblesville, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.07312,
+40.04568
+]
+},
+"properties": {
+"address": "16816 Daly Drive",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Paddington",
+"Community": "Magnolia Ridge",
+"matched_label": "46062, Noblesville, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06433,
+40.07315
+]
+},
+"properties": {
+"address": "19612 Service Berry Circle",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Fairmont",
+"Community": "The Timbers",
+"matched_label": "19612 Service Berry Cir, Noblesville, IN 46062-7451, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06433,
+40.07315
+]
+},
+"properties": {
+"address": "19612 Service Berry Circle",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Fairmont",
+"Community": "The Timbers",
+"matched_label": "19612 Service Berry Cir, Noblesville, IN 46062-7451, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06517,
+40.07368
+]
+},
+"properties": {
+"address": "19843 Hazelnut Boulevard",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "3100",
+"Community": "The Timbers",
+"matched_label": "19843 Hazlenut Blvd, Noblesville, IN 46062, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06517,
+40.07318
+]
+},
+"properties": {
+"address": "19842 Hazelnut Boulevard",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "3100",
+"Community": "The Timbers",
+"matched_label": "19842 Hazlenut Blvd, Noblesville, IN 46062, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06438,
+40.07249
+]
+},
+"properties": {
+"address": "19600 Timbers Parkway",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Oxford",
+"Community": "The Timbers",
+"matched_label": "19600 Timbers Pkwy, Noblesville, IN 46062-7439, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06451,
+40.07285
+]
+},
+"properties": {
+"address": "19620 Timbers Parkway",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Rockwell",
+"Community": "The Timbers",
+"matched_label": "19620 Timbers Pkwy, Noblesville, IN 46062-7439, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06517,
+40.07368
+]
+},
+"properties": {
+"address": "19843 Hazelnut Boulevard",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "3100",
+"Community": "The Timbers",
+"matched_label": "19843 Hazlenut Blvd, Noblesville, IN 46062, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06517,
+40.07318
+]
+},
+"properties": {
+"address": "19842 Hazelnut Boulevard",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "3100",
+"Community": "The Timbers",
+"matched_label": "19842 Hazlenut Blvd, Noblesville, IN 46062, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06438,
+40.07249
+]
+},
+"properties": {
+"address": "19600 Timbers Parkway",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Oxford",
+"Community": "The Timbers",
+"matched_label": "19600 Timbers Pkwy, Noblesville, IN 46062-7439, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.06451,
+40.07285
+]
+},
+"properties": {
+"address": "19620 Timbers Parkway",
+"city": "Noblesville",
+"state": "IN",
+"zipcode": "46062",
+"Collection": "Rockwell",
+"Community": "The Timbers",
+"matched_label": "19620 Timbers Pkwy, Noblesville, IN 46062-7439, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7354,
+39.99956
+]
+},
+"properties": {
+"address": "7190 Murph Way",
+"city": "Pendleton",
+"state": "IN",
+"zipcode": "46064",
+"Collection": "Ironwood",
+"Community": "The Ridge at Fall Creek",
+"matched_label": "Pendleton, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-85.7354,
+39.99956
+]
+},
+"properties": {
+"address": "7190 Murph Way",
+"city": "Pendleton",
+"state": "IN",
+"zipcode": "46064",
+"Collection": "Ironwood",
+"Community": "The Ridge at Fall Creek",
+"matched_label": "Pendleton, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "513 Regatta Lane",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Monroe",
+"Community": "Grey Hawk",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "497 Regatta Lane",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Monroe",
+"Community": "Grey Hawk",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.36938,
+39.71768
+]
+},
+"properties": {
+"address": "2226 Galleone Way",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Fletcher",
+"Community": "Grey Hawk",
+"matched_label": "2226 Galleone Way, Plainfield, IN 46168-5914, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.37162,
+39.71578
+]
+},
+"properties": {
+"address": "446 Breakwater Drive",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Seabrook",
+"Community": "Grey Hawk",
+"matched_label": "446 Breakwater Dr, Plainfield, IN 46168-5893, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "513 Regatta Lane",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Monroe",
+"Community": "Grey Hawk",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "497 Regatta Lane",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Monroe",
+"Community": "Grey Hawk",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.36938,
+39.71768
+]
+},
+"properties": {
+"address": "2226 Galleone Way",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Fletcher",
+"Community": "Grey Hawk",
+"matched_label": "2226 Galleone Way, Plainfield, IN 46168-5914, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.37162,
+39.71578
+]
+},
+"properties": {
+"address": "446 Breakwater Drive",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Seabrook",
+"Community": "Grey Hawk",
+"matched_label": "446 Breakwater Dr, Plainfield, IN 46168-5893, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.33289,
+39.70119
+]
+},
+"properties": {
+"address": "4157 Los Gatos Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Madison",
+"Community": "Saratoga Village",
+"matched_label": "4157 Plainfield Rd, Plainfield, IN 46168, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.3329,
+39.70152
+]
+},
+"properties": {
+"address": "4153 Los Gatos Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Madison",
+"Community": "Saratoga Village",
+"matched_label": "4153 Plainfield Rd, Plainfield, IN 46168, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5910 Juna Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Foxhall",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5906 Juna Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Foxhall",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5891 Farwell  Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Talbott II",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5942 Juna Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Edinburgh",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.33289,
+39.70119
+]
+},
+"properties": {
+"address": "4157 Los Gatos Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Madison",
+"Community": "Saratoga Village",
+"matched_label": "4157 Plainfield Rd, Plainfield, IN 46168, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.3329,
+39.70152
+]
+},
+"properties": {
+"address": "4153 Los Gatos Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Madison",
+"Community": "Saratoga Village",
+"matched_label": "4153 Plainfield Rd, Plainfield, IN 46168, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5910 Juna Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Foxhall",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5906 Juna Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Foxhall",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5891 Farwell  Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Talbott II",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.39765,
+39.70442
+]
+},
+"properties": {
+"address": "5942 Juna Avenue",
+"city": "Plainfield",
+"state": "IN",
+"zipcode": "46168",
+"Collection": "Edinburgh",
+"Community": "Saratoga Village",
+"matched_label": "46168, Plainfield, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.19248,
+40.02907
+]
+},
+"properties": {
+"address": "16693 Reed Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "3400",
+"Community": "Ravinia",
+"matched_label": "16693 Reed Dr, Westfield, IN 46074-1236, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.19248,
+40.02907
+]
+},
+"properties": {
+"address": "16693 Reed Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "3400",
+"Community": "Ravinia",
+"matched_label": "16693 Reed Dr, Westfield, IN 46074-1236, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.146,
+40.02842
+]
+},
+"properties": {
+"address": "1563  Hamilton Ridge Road",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Meridian III",
+"Community": "The Towns at Chatham",
+"matched_label": "Oak Ridge Rd, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.146,
+40.02842
+]
+},
+"properties": {
+"address": "1563  Hamilton Ridge Road",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Meridian",
+"Community": "The Towns at Chatham",
+"matched_label": "Oak Ridge Rd, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.18134,
+40.06362
+]
+},
+"properties": {
+"address": "1274 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Fairmont",
+"Community": "Winterburg",
+"matched_label": "1274 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.18217,
+40.06361
+]
+},
+"properties": {
+"address": "1308 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Rockwell",
+"Community": "Winterburg",
+"matched_label": "1308 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.1816,
+40.06362
+]
+},
+"properties": {
+"address": "1284 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Seabrook",
+"Community": "Winterburg",
+"matched_label": "1284 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.18331,
+40.06332
+]
+},
+"properties": {
+"address": "1357 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Rockwell",
+"Community": "Winterburg",
+"matched_label": "1357 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.18134,
+40.06362
+]
+},
+"properties": {
+"address": "1274 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Fairmont",
+"Community": "Winterburg",
+"matched_label": "1274 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.18217,
+40.06361
+]
+},
+"properties": {
+"address": "1308 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Rockwell",
+"Community": "Winterburg",
+"matched_label": "1308 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.1816,
+40.06362
+]
+},
+"properties": {
+"address": "1284 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Seabrook",
+"Community": "Winterburg",
+"matched_label": "1284 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.18331,
+40.06332
+]
+},
+"properties": {
+"address": "1357 Drury Drive",
+"city": "Westfield",
+"state": "IN",
+"zipcode": "46074",
+"Collection": "Rockwell",
+"Community": "Winterburg",
+"matched_label": "1357 Drury Dr, Westfield, IN 46074, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.34257,
+39.93095
+]
+},
+"properties": {
+"address": "6634 Halsey Street",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"match": "202_Ellis Acres",
+"Collection": "Lockerbie V",
+"Community": "Ellis Acres",
+"matched_label": "6619 Halsey St, Zionsville, IN 46077, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.34257,
+39.93095
+]
+},
+"properties": {
+"address": "6614 Halsey Street",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+match": "302_Ellis Acres",
+"Collection": "Lockerbie V",
+"Community": "Ellis Acres",
+"matched_label": "6619 Halsey St, Zionsville, IN 46077, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.34393,
+39.93094
+]
+},
+"properties": {
+"address": "6574 Halsey Street",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"Collection": "Lockerbie V",
+"Community": "Ellis Acres",
+"matched_label": "6607 Halsey St, Zionsville, IN 46077, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.34257,
+39.93095
+]
+},
+"properties": {
+"address": "6614 Halsey Street",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"Collection": "Lockerbie V",
+"Community": "Ellis Acres",
+"matched_label": "6619 Halsey St, Zionsville, IN 46077, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.34393,
+39.93094
+]
+},
+"properties": {
+"address": "6574 Halsey Street",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"Collection": "Lockerbie V",
+"Community": "Ellis Acres",
+"matched_label": "6607 Halsey St, Zionsville, IN 46077, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.34257,
+39.93095
+]
+},
+"properties": {
+"address": "6634 Halsey Street",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"Collection": "Lockerbie",
+"Community": "Ellis Acres",
+"matched_label": "6619 Halsey St, Zionsville, IN 46077, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.26226,
+39.95053
+]
+},
+"properties": {
+"address": "2412 Red Squirrel Way",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"Collection": "3300",
+"Community": "Union Woodlands",
+"matched_label": "46077, Zionsville, IN, United States"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-86.26226,
+39.95053
+]
+},
+"properties": {
+"address": "2412 Red Squirrel Way",
+"city": "Zionsville",
+"state": "IN",
+"zipcode": "46077",
+"Collection": "3300",
+"Community": "Union Woodlands",
+"matched_label": "46077, Zionsville, IN, United States"
+}
+}
+]
+}
